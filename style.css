@@ -9,3 +9,24 @@
     font-weight: 400;
     font-style: italic;
 }
+
+body {
+    background-color: black;
+}
+
+table, th, td {
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    border: 2px solid;
+    text-align: center;
+}
+
+td:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+
+
